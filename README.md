@@ -1,12 +1,13 @@
-👋 Hello there
-I'm Mateo, a Computer & Data Science student at University of Buenos Aires (FCEN-UBA).
+## 👋 Hello there!
 
-I’m interested in R&D on: Commputer Systems, Machine Learning, Data Science.
+### I'm Mateo, a Computer & Data Science student at University of Buenos Aires (FCEN-UBA).
 
-Contact me!
+#### I’m interested in R&D on: Computer Systems, Machine Learning and Data Science.
 
-Email: mdominguez@dc.uba.ar
-Linkedin: linkedin.com/in/matedominguez
+#### Contact me!
+
+* Email: mdominguez@dc.uba.ar
+* Linkedin: [linkedin.com/in/matedominguez](https://www.linkedin.com/in/matedominguez/ "Linkedin")
 
 <!---
 MateDominguez/MateDominguez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
